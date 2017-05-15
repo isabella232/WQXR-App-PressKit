@@ -1,7 +1,6 @@
-WQXR-App-PressKit
-=================
+# WQXR App Press Kit
 
-Press Kit for the WQXR App.
+Press kit for New York Public Radio's WQXR App.
 Contact us if you're missing anything. 
 
 Enjoy!
